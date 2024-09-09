@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF=8">
+    <title> Just Order | Ecommerce Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="Icon">
+          href="Pick.png"
+          type="image/png>
+</head>
+<body style="background-color:yellow">
+    <div class="container">
+    <div class="navbar"></div>
+        <img src="
+        
+    <div class="row">
+        <div class="col-2">
+            <h1>Play the sounds from your heart.
+            </h1><p>About: is a leading worldwide online retailer of fashion and lifestyle products from dedicated musicians.</p>
+            
+        </div>
+        
+             <div class="col-2>
+                 <img src="">
+            </div>
+            </div>
+        </div>
+        
+<hr width="100%" color="black">
+
+     <p><font face="Monospace" size="5"> Categories: </i></font>
+<table border="1" width="100%" height="250px">
+    <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+</table>
+
+<pre align="center">
+    
+    <hr width="100% color=black">
+    
+<pre align="center"> <font face="Monospace" size="3"><i> Contact me thru:
+Phone Number: 09925860250
+Email: RoyBayotlang1@gmail.com
+<a href=https://www.facebook.com/Royskie1234?mibextid=ZbWKwL </a></i>
+  </font>
+  </pre>
+  </pre>
+  </body>
+  </html>

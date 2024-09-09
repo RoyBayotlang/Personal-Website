@@ -1,0 +1,97 @@
+﻿
+<!DOCTYPE html>
+
+<HTML lang= "en-US">
+
+<HEAD><TITLE> Microphone </TITLE></HEAD>
+<body style="background-image:url('background 4.jpg'); background-repeat: no-repeat; background-attachment:fixed; background-position: center; background-size: cover; width: 100%;>
+
+
+<pre <h3>About:is a leading worldwide online retailer of fashion and lifestyle 
+                                     products from dedicated musicians.</h3></pre>
+
+<hr width="100%" color="black">
+
+    <p> <i><font face="Monospace" size="4"> Microphone </font></i></p>
+
+<pre align="center"> 
+
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="microphone 1.jpg" width="380" height="450"></center>
+
+<pre align="center"> Normal Microphone
+₱80
+
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="microphone 2.jpg" width="380" height="450"><center>
+
+<pre align="center"> Broadcasting Microphone
+₱65
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="microphone 3.jpg" width="380" height="380"><center>
+
+<pre align="center"> Cool Microphone
+₱150
+
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="microphone 4.jpg" width="380" height="450"><center>
+
+<pre align="center"> Cool Gaming Microphone
+₱250
+
+Contact me thru:
+Phone Number: 09925860250
+Email: RoyBayotlang1@gmail.com
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+
+</BODY>
+
+</HTML>

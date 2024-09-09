@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF=8">
+    <title> Just Order | Ecommerce Website </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="Icon"
+          href="JO.jpg"
+          type="image/jpg">
+</head>
+<body>
+    <div class="container">
+        <div class="navbar"></div>
+        <div class="logo"></div>
+            <img src="images/JO.jpg" width="125px">
+
+        <div class="row">
+            <div class="col-2">
+                <h1>Happiness is not in money,<br> but in shopping.</h1>
+                <p>About: Just Order is a leading worldwide online retailer of fashion
+                   and lifestyle products dedicated to globallizing access to the beauty of clothing.</p>               
+   </div>
+
+        <div class="col-2">
+            <img src="images/spbags1.jpg">
+         </div> 
+        </div>  
+    </div>
+            
+<hr width="100%" color="black">        
+    
+    <p><font face="Monospace" size="5"><i> Categories: </i></font>
+<table border="1" width="100%" height="250px">
+    <tr>
+        <th><a href="file:///C:/Users/Imelda%20P.%20Hermoso/Documents/JustOrder/Clothing.html"> Clothing </a></th>
+        <th><a href="file:///C:/Users/Imelda%20P.%20Hermoso/Documents/JustOrder/Dresses.html"> Dresses </a></th>
+        <th><a href="file:///C:/Users/Imelda%20P.%20Hermoso/Documents/JustOrder/Jewelry&Watches.html"> Jewelry and watches </a></th>
+        <th><a href="file:///C:/Users/Imelda%20P.%20Hermoso/Documents/JustOrder/Accessories.html"> Accesories </a></th>
+        <th><a href="file:///C:/Users/Imelda%20P.%20Hermoso/Documents/JustOrder/Shoes.html"> Shoes </a></th>
+    </tr>
+</table>
+    
+<pre align="center">
+
+<hr width="100%" color="black">
+
+
+<pre align="center"> <font face="Monospace" size="3"><i> Contact me thru:
+Phone number:09385080352
+Email: vyenhermoso@gmail.com
+<a href="https://web.facebook.com/vvivien.hermoso">Facebook: Vivien Hermoso </a></i>
+   </font>
+</pre>
+</pre>
+</body>
+</html>

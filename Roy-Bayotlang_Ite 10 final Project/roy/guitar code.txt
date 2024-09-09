@@ -1,0 +1,97 @@
+﻿
+<!DOCTYPE html>
+
+<HTML lang= "en-US">
+
+<HEAD><TITLE> Guitars </TITLE></HEAD>
+<body style="background-image:url('background 3.jpg'); background-repeat: no-repeat; background-attachment:fixed; background-position: center; background-size: cover; width: 100%;>
+
+
+<pre <h3>About:is a leading worldwide online retailer of fashion and lifestyle 
+                                     products from dedicated musicians.</h3></pre>
+
+<hr width="100%" color="black">
+
+    <p> <i><font face="Monospace" size="4"> Guitars </font></i></p>
+
+<pre align="center"> 
+
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="download.jpg" width="380" height="450"></center>
+
+<pre align="center"> Cilra Cool Guitar
+#200
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="black guitar.jpg" width="380" height="450"><center>
+
+<pre align="center"> Cool acoustic Guitar
+₱230
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="guitar.jpg" width="380" height="380"><center>
+
+<pre align="center"> Black guitar
+₱150
+
+
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+<center><img src="acoustic guitar.jpg" width="380" height="450"><center>
+
+<pre align="center"> Django Acoustic guitar
+₱250
+
+Contact me thru:
+Phone Number: 09925860250
+Email: RoyBayotlang1@gmail.com
+
+
+<table border="1" width="100%" height="50">
+<tbody><tr>
+<th><a href="#"> Chat Now </a></th>
+<th><a href="#"> Add to Cart </a></th>
+<th><a href="#"> Buy Now </a></th>
+</tr>
+</tbody></table>
+
+
+</BODY>
+
+</HTML>

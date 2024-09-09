@@ -3,3 +3,17 @@
   padding: 20px;
   border-radius: 8px;
 }
+.btn-primary {
+  transition: transform 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  transform: scale(1.05);
+}
+
+.nav-link {
+  transition: transform 0.3s ease-in-out;
+}
+.nav-link:hover {
+  transform: scale(1.05);
+}
